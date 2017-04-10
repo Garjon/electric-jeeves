@@ -1,0 +1,12 @@
+*.suo
+*.user
+*.min.css
+*.min.js
+
+.vs/
+.vscode/
+bin/
+obj/
+artifacts/
+
+**/wwwroot/lib/

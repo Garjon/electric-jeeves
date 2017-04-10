@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  electricjeeves:
+    image: electricjeeves
+    build:
+      context: ./ElectricJeeves
+      dockerfile: Dockerfile
